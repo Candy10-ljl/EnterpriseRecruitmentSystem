@@ -6,3 +6,8 @@ hellow world
 hi的
 >>>>>>> 4be4fea21956acd90abbf641fb5268f49f112a92
 123
+public class helloworld{
+	public static void main(string[] argc){
+		system.out.println("hello world!");
+	}
+}
